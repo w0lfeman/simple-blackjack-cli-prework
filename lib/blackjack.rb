@@ -34,7 +34,8 @@ def hit?(card_total)
   if get_user_input == "s"
     
     
-
+  end
+  card_total
 end
 
 def invalid_command
