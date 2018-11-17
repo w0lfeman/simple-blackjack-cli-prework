@@ -29,7 +29,7 @@ def initial_round
 end
 
 def hit?(card_total)
-  prompt_uses
+  prompt_user
     
   end
   
